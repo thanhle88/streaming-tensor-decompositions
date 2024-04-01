@@ -310,7 +310,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
    * Neural Networks-based Methods
  * Provable Tensor Tracking Methods
  * Symbolic Tensor Tracking
- * Tracking under BTD, t-SVD, TN, and other variants
+ * Tracking under BTD, t-SVD, Tensor networks (tensor ring, tensor wheel, tensor star, ... ), and other variants
 
 ## [Related Sources](#content) 
 ### [Good Surveys of (Batch) Tensor  Decomposition, Analysis, and Applications](#content) 
