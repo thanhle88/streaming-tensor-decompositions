@@ -93,6 +93,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * OnlineGCP: "Streaming Generalized Canonical Polyadic Tensor Decompositions", in **PASC**, 2023,  [Paper](https://dl.acm.org/doi/abs/10.1145/3592979.3593405), [PDF](https://arxiv.org/pdf/2110.14514.pdf), [Code](https://gitlab.com/tensors/genten)
 
+
 #### [BCD + Stochastic Gradient Solvers](#content) 
 
 * TeCPSGD: "Subspace Learning and Imputation for Streaming Big Data Matrices and Tensors", in **IEEE Trans. Signal Process.**, 2015, [Paper](https://ieeexplore.ieee.org/document/7072498), [PDF](https://arxiv.org/pdf/1404.4667.pdf), [Code](https://github.com/hiroyuki-kasai/OLSTEC/tree/master/benchmark/TeCPSGD)
@@ -107,7 +108,8 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * DAO-CP: "DAO-CP: Data Adaptive Online CP Decomposition", in **Plus One**, 2021, [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9009670/pdf/pone.0267091.pdf), [PDF](https://datalab.snu.ac.kr/dao-cp/resources/paper.pdf), [Code](https://github.com/lucetre-snu/dao-cp)
 
-  
+* CIDTD: "Scale-variant structural feature construction of EEG stream via component-increased Dynamic Tensor Decomposition", in **Knowledge-Based Systems**, 2024, [Paper](https://www.sciencedirect.com/science/article/pii/S0950705124003824#bib1)
+
 #### [BCD + ADMM](#content) 
 
 * spCP-stream:  "High-Performance Streaming Tensor Decomposition", in **IEEE IPDPS**, 2021, [Paper](https://ieeexplore.ieee.org/document/9460519), [PDF](https://www.cs.uoregon.edu/Reports/DRP-202106-Soh.pdf), [Code](https://github.com/jeewhanchoi/row-sparse-cpstream)
