@@ -300,20 +300,6 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **C-CPD-T**: "An Adaptive Algorithm for Tracking Third-Order Coupled Canonical Polyadic Decomposition", in **IEEE ICASSP**, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10447395)
 
 
-
-## [Research Challenges, Open Problems, and Future Directions](#content) 
-* Data Imperfection and Corruption
-  * Non-Gaussian and Colored Noises
-  * Outliers and Missing Data
-* Rank Revealing and Tracking
-* Efficient and Scalable Tensor Tracking
-   * Randomized Sketching
-   * Parallel and Distributed Computing
-   * Neural Networks-based Methods
- * Provable Tensor Tracking Methods
- * Symbolic Tensor Tracking
- * Tracking under BTD, t-SVD, Tensor networks (tensor ring, tensor wheel, tensor star, ... ), and other variants
-
 ## [Related Sources](#content) 
 ### [Good Surveys of (Batch) Tensor  Decomposition, Analysis, and Applications](#content) 
 
