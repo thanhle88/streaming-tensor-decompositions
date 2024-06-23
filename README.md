@@ -94,7 +94,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **OnlineGCP**: "Streaming Generalized Canonical Polyadic Tensor Decompositions", in **PASC**, 2023,  [Paper](https://dl.acm.org/doi/abs/10.1145/3592979.3593405), [PDF](https://arxiv.org/pdf/2110.14514.pdf), [Code](https://gitlab.com/tensors/genten)
 
 
-* **Online CP**: "A Tensor Based Unified Framework for Streaming Signal Online Analysis", in **IEEE SPL**, 2024,  [Paper](https://ieeexplore.ieee.org/abstract/document/10555149
+* **Online CP**: "A Tensor Based Unified Framework for Streaming Signal Online Analysis", in **IEEE SPL**, 2024,  [Paper](https://ieeexplore.ieee.org/abstract/document/10555149)
   
 
 
