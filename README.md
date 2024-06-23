@@ -227,6 +227,9 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **ATD**: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Cell Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [PDF](https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf), [Code](https://github.com/thanhtbt/tensor_tracking)
 
 
+* **Online Tucker**: "A Tensor Based Unified Framework for Streaming Signal Online Analysis", in **IEEE SPL**, 2024,  [Paper](https://ieeexplore.ieee.org/abstract/document/10555149)
+  
+
 ### [Bayesian Inference Methods](#content) 
 
 * **SNBTD**: "Streaming nonlinear Bayesian tensor decomposition", in  **UAI**, 2020, [Paper](https://proceedings.mlr.press/v124/pan20a.html), [PDF](https://proceedings.mlr.press/v124/pan20a/pan20a.pdf), [Code](https://github.com/USTCEarthDefense/SNBTD)
@@ -263,7 +266,6 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **TT-FOA**: "Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors", in **EUSIPCO**, 2020,  [Paper](https://ieeexplore.ieee.org/document/9287780), [PDF](https://hal.univ-lille.fr/hal-02865257v1/file/EUSIPCO%281%29.pdf), [Code](https://github.com/thanhtbt/ATT)
 
 * **ROBOT**: "Robust Tensor Tracking With Missing Data Under Tensor-Train Format", in **EUSIPCO**, 2022,  [Paper](https://ieeexplore.ieee.org/document/9287780), [PDF](https://thanhtbt.github.io/files/2022_EUSIPCO-Robust%20Tensor%20Tracking%20with%20Missing%20Data%20under%20Tensor-Train%20Format.pdf), [Code](https://github.com/thanhtbt/ROBOT)
-
   
 * **ATT**: "A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations", in **Signal Process.**, 2024, [Paper](https://www.sciencedirect.com/science/article/pii/S0165168423003717), [PDF](https://thanhtbt.github.io/files/2023_SP_ATT.pdf), [Code](https://github.com/thanhtbt/ATT-miss)
 
@@ -273,7 +275,9 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **TT-ICE**: "An Incremental Tensor Train Decomposition Algorithm", in **SIAM J. Scient. Comput.**, 2024. [Paper](https://arxiv.org/pdf/2211.12487.pdf), [Code](https://github.com/dorukaks/TT-ICE)
 
+* **Online TT**: "A Tensor Based Unified Framework for Streaming Signal Online Analysis", in **IEEE SPL**, 2024,  [Paper](https://ieeexplore.ieee.org/abstract/document/10555149)
 
+  
 ## [Dynamic Tensor Analysis Under Block-Term Decomposition Format](#content) 
 
 
