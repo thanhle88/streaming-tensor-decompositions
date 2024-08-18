@@ -190,6 +190,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **IMDHOSVD**: "Improved multi-order distributed HOSVD with its incremental computing for smart city services", in **IEEE Trans. Sustain. Comput.**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8536482)
 
+* **SMLN**: "A sequential multilinear Nystrom" om algorithm for streaming low-rank approximation of tensors in Tucker format",  in **Applied Mathematics Letters**, 2024 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S089396592400291X?via%3Dihub)
 
 
 #### [Online Multimodal Dictionary Learning](#content) 
@@ -225,7 +226,6 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **D-TuckerO**: "Static and Streaming Tucker Decomposition for Dense Tensors", in **ACM Trans. Knowl. Disc. Data**, 2022, [Paper](https://dl.acm.org/doi/10.1145/3568682), [PDF](https://datalab.snu.ac.kr/~ukang/papers/dtuckerTKDD23.pdf), [Code](https://datalab.snu.ac.kr/dtucker/)
 
 * **ATD**: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Cell Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [PDF](https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf), [Code](https://github.com/thanhtbt/tensor_tracking)
-
 
 * **Online Tucker**: "A Tensor Based Unified Framework for Streaming Signal Online Analysis", in **IEEE SPL**, 2024,  [Paper](https://ieeexplore.ieee.org/abstract/document/10555149)
   
