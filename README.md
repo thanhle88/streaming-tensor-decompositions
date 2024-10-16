@@ -255,11 +255,15 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **DATT**: "Time integration of tensor trains", in **SIAM J. Numer. Anal.**, 2015, [Paper](https://epubs.siam.org/doi/abs/10.1137/140976546), [PDF](https://arxiv.org/pdf/1407.2042.pdf)
 
 
+
 ### [Incremental Decomposition of Tensors in Stationary Environments (i.e., TT-Cores are Fixed Over Time)](#content) 
 
 * **ITTD**: "An incremental tensor-train decomposition for cyber-physical-social big data", in **IEEE Trans. Big Data**, 2018,  [Paper](https://ieeexplore.ieee.org/abstract/document/8449102), [PDF](https://www.researchgate.net/profile/Liu-Huazhong/publication/327298675_An_Incremental_Tensor-Train_Decomposition_for_Cyber-Physical-Social_Big_Data/links/5cc8e492a6fdcc1d49bbfe40/An-Incremental-Tensor-Train-Decomposition-for-Cyber-Physical-Social-Big-Data.pdf)
 
 * **DTT**: "DTT: A highly efficient distributed tensor train decomposition method for IIoT big data", in **IEEE Trans. Ind. Inf**, 2021, [Paper](https://ieeexplore.ieee.org/document/8963751)
+
+* **TTD-PAM**: "Tensor Train Factorization with Spatio-temporal Smoothness for Streaming Low-rank Tensor Completion", in **Front. Math.**, 2024 [Paper](https://link.springer.com/article/10.1007/s11464-021-0443-6)
+   
 
 ### [Streaming Decomposition of Tensors in Non-Stationary Environments (i.e., TT-Cores Can Change Over Time)](#content) 
 
@@ -277,7 +281,6 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **Online TT**: "A Tensor Based Unified Framework for Streaming Signal Online Analysis", in **IEEE SPL**, 2024,  [Paper](https://ieeexplore.ieee.org/abstract/document/10555149)
 
- * **TTD-PAM**: "Tensor Train Factorization with Spatio-temporal Smoothness for Streaming Low-rank Tensor Completion", in **Front. Math.**, 2024 [Paper](https://link.springer.com/article/10.1007/s11464-021-0443-6)
 
   
 ## [Dynamic Tensor Analysis Under Block-Term Decomposition Format](#content) 
