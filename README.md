@@ -277,6 +277,8 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **Online TT**: "A Tensor Based Unified Framework for Streaming Signal Online Analysis", in **IEEE SPL**, 2024,  [Paper](https://ieeexplore.ieee.org/abstract/document/10555149)
 
+ * **TTD-PAM**: "Tensor Train Factorization with Spatio-temporal Smoothness for Streaming Low-rank Tensor Completion", in Front. Math., 2024 [Paper](https://link.springer.com/article/10.1007/s11464-021-0443-6)
+
   
 ## [Dynamic Tensor Analysis Under Block-Term Decomposition Format](#content) 
 
