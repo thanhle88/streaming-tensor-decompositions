@@ -314,7 +314,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **OnlineCP-Fusion**: "Online Data Fusion Using Incremental Tensor Learning", in **PAKDD**, 2019, [Paper](https://link.springer.com/book/10.1007/978-3-030-16148-4), [PDF](https://opus.lib.uts.edu.au/bitstream/10453/137870/1/PAKDD19.pdf)
 * **C-CPD-T**: "An Adaptive Algorithm for Tracking Third-Order Coupled Canonical Polyadic Decomposition", in **IEEE ICASSP**, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10447395)
-
+* **CP-AC**: "Consensus-based distributed streaming coupled tensor factorization", in **FUSION**, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10706299)
 
 ## [Related Sources](#content) 
 ### [Good Surveys of (Batch) Tensor  Decomposition, Analysis, and Applications](#content) 
