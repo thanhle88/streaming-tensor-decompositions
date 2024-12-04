@@ -244,6 +244,17 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **SIITA**: "Inductive Framework for Multi-Aspect Streaming Tensor Completion with Side Information", in **ACM CIKM**, 2018, [Paper](https://dl.acm.org/doi/abs/10.1145/3269206.3271713), [PDF](https://pdfs.semanticscholar.org/99c8/b8d79ec419209513ee49274b4b7b537d3d73.pdf), [Code](https://github.com/madhavcsa/SIITA)
 
 * **eOTD**: "eOTD: An efficient online tucker decomposition for higher order tensors", in **IEEE ICDM**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8594989), [PDF](https://par.nsf.gov/servlets/purl/10098518)
+
+
+  
+## [Dynamic Tensor Analysis Under Block-Term Decomposition Format](#content) 
+
+
+* **OnlineBTD**: "OnlineBTD: Streaming algorithms to track the block term decomposition of large tensors", in **DSAA**, 2020, [Paper](https://ieeexplore.ieee.org/abstract/document/9260061), [PDF](https://www.cs.ucr.edu/~epapalex/papers/2020_DSAA_onlineBTD.pdf), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/OnlineBTD.zip)
+  
+* **O-BTD-RLS**: "Online rank-revealing block-term tensor decomposition", in **Signal Process.**, 2023, [Paper](https://www.sciencedirect.com/science/article/pii/S0165168423002001), [PDF](https://arxiv.org/pdf/2106.10755.pdf)
+
+* **SBTD**: "A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors", in **IEEE SSP**, 2023, [Paper](https://ieeexplore.ieee.org/document/10208007), [PDF](https://thanhtbt.github.io/files/2023_SSP%20-%20A%20novel%20tensor%20tracking%20algorithm%20for%20block-term%20decomposition%20of%20streaming%20tensors.pdf)
   
 
 ## [Dynamic Tensor Analysis Under Tensor-Train Format](#content) 
@@ -253,8 +264,6 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **DATT**: "Dynamical approximation by hierarchical Tucker and tensor-train tensors", in **SIAM J. Matrix Anal. Appl.**, 2013, [Paper](https://epubs.siam.org/doi/abs/10.1137/120885723), [PDF](https://www.researchgate.net/profile/Reinhold-Schneider/publication/264273502_Dynamical_Approximation_By_Hierarchical_Tucker_And_Tensor-Train_Tensors/links/54d261b40cf25017917dea17/Dynamical-Approximation-By-Hierarchical-Tucker-And-Tensor-Train-Tensors.pdf)
 
 * **DATT**: "Time integration of tensor trains", in **SIAM J. Numer. Anal.**, 2015, [Paper](https://epubs.siam.org/doi/abs/10.1137/140976546), [PDF](https://arxiv.org/pdf/1407.2042.pdf)
-
-
 
 ### [Incremental Decomposition of Tensors in Stationary Environments (i.e., TT-Cores are Fixed Over Time)](#content) 
 
@@ -282,22 +291,12 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **Online TT**: "A Tensor Based Unified Framework for Streaming Signal Online Analysis", in **IEEE SPL**, 2024,  [Paper](https://ieeexplore.ieee.org/abstract/document/10555149)
 
 
-  
-## [Dynamic Tensor Analysis Under Block-Term Decomposition Format](#content) 
-
-
-* **OnlineBTD**: "OnlineBTD: Streaming algorithms to track the block term decomposition of large tensors", in **DSAA**, 2020, [Paper](https://ieeexplore.ieee.org/abstract/document/9260061), [PDF](https://www.cs.ucr.edu/~epapalex/papers/2020_DSAA_onlineBTD.pdf), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/OnlineBTD.zip)
-  
-* **O-BTD-RLS**: "Online rank-revealing block-term tensor decomposition", in **Signal Process.**, 2023, [Paper](https://www.sciencedirect.com/science/article/pii/S0165168423002001), [PDF](https://arxiv.org/pdf/2106.10755.pdf)
-
-* **SBTD**: "A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors", in **IEEE SSP**, 2023, [Paper](https://ieeexplore.ieee.org/document/10208007), [PDF](https://thanhtbt.github.io/files/2023_SSP%20-%20A%20novel%20tensor%20tracking%20algorithm%20for%20block-term%20decomposition%20of%20streaming%20tensors.pdf)
-
-## [Dynamic Tensor Analysis Under Tensor-Ring/Tensor Network Format](#content) 
+## [Dynamic Tensor Analysis Under Tensor-Ring Format](#content) 
 
 * "Multi-Aspect Streaming Tensor Ring Completion for Dynamic Incremental Data", in **IEEE Signal Process. Lett.**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9996547)
 * **OLSTR-SGD/RLS**: "Online subspace learning and imputation by Tensor-Ring decomposition", in **Neural Netw.**, 2022, [Paper](https://www.sciencedirect.com/science/article/pii/S0893608022001976)
 * **STRC & TRSSD**: "Patch tracking-based streaming tensor ring completion for visual data recovery", in **IEEE Trans. Circuits Syst. Video Techn.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9828504), [PDF](https://arxiv.org/pdf/2105.14620.pdf), [Code](https://github.com/he1c/PTSTRC)
-* **STR**:  "Tracking Tensor Ring Decompositions of Streaming Tensors", in ** Computational and Applied Mathematics**, 2024, [Link](https://link.springer.com/article/10.1007/s40314-024-03019-4) [Paper](https://arxiv.org/pdf/2307.00719.pdf)
+* **STR**:  "Tracking Tensor Ring Decompositions of Streaming Tensors", in **Computational and Applied Mathematics**, 2024, [Link](https://link.springer.com/article/10.1007/s40314-024-03019-4) [Paper](https://arxiv.org/pdf/2307.00719.pdf)
 
 
 
