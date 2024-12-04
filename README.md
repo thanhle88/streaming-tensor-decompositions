@@ -133,6 +133,9 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **SFTL**: "Streaming Factor Trajectory Learning for Temporal Tensor Decomposition", in **NeurIPS**, 2023, [Paper](https://neurips.cc/virtual/2023/poster/71689), [PDF](https://proceedings.mlr.press/v139/fang21d/fang21d.pdf), [PDF](https://arxiv.org/pdf/2310.17021.pdf), [Code](https://github.com/xuangu-fang/Streaming-Factor-Trajectory-Learning)
 
+
+*  **BS-CP**: Efficient streaming Bayesian tensor decomposition method via assumed density filtering, in **Plus One**, [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312723)
+
 ### [Multi-aspect Streaming CP Decomposition Methods](#content) 
 
 * **MASTA**: "Multi-aspect-streaming tensor analysis", in **Knowl.-Based Syst.**, 2015, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705115002671), [PDF](https://repositorio.inesctec.pt/server/api/core/bitstreams/ca4786ca-278c-417a-8bbc-7f00b511ecfd/content), [Code](https://github.com/fanaee/MASTA/blob/main/MASTA.zip)
