@@ -54,7 +54,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 ![tensor_tracking](https://github.com/thanhtbt/tensor_tracking_survey/assets/26319211/6219b4d6-ce85-47ce-aa51-748661560a99)
 
 
-## [Dynamic Tensor Analysis Under CP/PARAFAC Format](#dynamic-tensor-analysis-under-cp-parafac-format)
+## 📚 [Dynamic Tensor Analysis Under CP/PARAFAC Format](#dynamic-tensor-analysis-under-cp-parafac-format)
 ### [Subspace-based Methods](#content) 
 
 * **PARAFAC-SDT/-RLS**: “Adaptive algorithms to track the PARAFAC decomposition of a third-order tensor,” in **IEEE Trans. Signal Process.**, 2009, [Paper](https://ieeexplore.ieee.org/document/4799120), [PDF](https://www.ece.umn.edu/~nikos/AdaptivePARAFAC.pdf), [Code](https://github.com/thanhtbt/ROLCP/tree/main/Algorithms/PAFARAC(2009))
@@ -168,7 +168,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **DEMOTE**: "Dynamic Tensor Decomposition via Neural Diffusion-Reaction Processes", in **NeurIPS**, 2023, [Paper](https://neurips.cc/virtual/2023/poster/71967), [PDF](https://arxiv.org/pdf/2310.19666.pdf), [Code](https://github.com/wzhut/Dynamic-Tensor-Decomposition-via-Neural-Diffusion-Reaction-Processes)
 
 
-## [Dynamic Tensor Analysis Under Tucker/HOSVD Format](#content) 
+## 📚 [Dynamic Tensor Analysis Under Tucker/HOSVD Format](#content) 
 
 ### [Online Tensor Dictionary Learning Methods](#content) 
 #### [Incremental Subspace Learning on Tensor Unfolding Matrices](#content) 
@@ -250,7 +250,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 
   
-## [Dynamic Tensor Analysis Under Block-Term Decomposition Format](#content) 
+## 📚 [Dynamic Tensor Analysis Under Block-Term Decomposition Format](#content) 
 
 
 * **OnlineBTD**: "OnlineBTD: Streaming algorithms to track the block term decomposition of large tensors", in **DSAA**, 2020, [Paper](https://ieeexplore.ieee.org/abstract/document/9260061), [PDF](https://www.cs.ucr.edu/~epapalex/papers/2020_DSAA_onlineBTD.pdf), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/OnlineBTD.zip)
@@ -260,7 +260,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **SBTD**: "A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors", in **IEEE SSP**, 2023, [Paper](https://ieeexplore.ieee.org/document/10208007), [PDF](https://thanhtbt.github.io/files/2023_SSP%20-%20A%20novel%20tensor%20tracking%20algorithm%20for%20block-term%20decomposition%20of%20streaming%20tensors.pdf)
   
 
-## [Dynamic Tensor Analysis Under Tensor-Train Format](#content) 
+## 📚 [Dynamic Tensor Analysis Under Tensor-Train Format](#content) 
 
 ### [Dynamic Decomposition of Time-series Tensors with Fix-Size (Non-Streaming)](#content) 
 
@@ -294,19 +294,19 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **Online TT**: "A Tensor Based Unified Framework for Streaming Signal Online Analysis", in **IEEE SPL**, 2024,  [Paper](https://ieeexplore.ieee.org/abstract/document/10555149)
 
 
-## [Dynamic Tensor Analysis Under Tensor-Ring Format](#content) 
+## 📚 [Dynamic Tensor Analysis Under Tensor-Ring Format](#content) 
 
 * "Multi-Aspect Streaming Tensor Ring Completion for Dynamic Incremental Data", in **IEEE Signal Process. Lett.**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9996547)
 * **OLSTR-SGD/RLS**: "Online subspace learning and imputation by Tensor-Ring decomposition", in **Neural Netw.**, 2022, [Paper](https://www.sciencedirect.com/science/article/pii/S0893608022001976)
 * **STRC & TRSSD**: "Patch tracking-based streaming tensor ring completion for visual data recovery", in **IEEE Trans. Circuits Syst. Video Techn.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9828504), [PDF](https://arxiv.org/pdf/2105.14620.pdf), [Code](https://github.com/he1c/PTSTRC)
 * **STR**:  "Tracking Tensor Ring Decompositions of Streaming Tensors", in **Computational and Applied Mathematics**, 2024, [Link](https://link.springer.com/article/10.1007/s40314-024-03019-4) [Paper](https://arxiv.org/pdf/2307.00719.pdf)
 
-## [Dynamic Tensor Analysis Under Tensor Tree Network Format](#content) 
+## 📚 [Dynamic Tensor Analysis Under Tensor Tree Network Format](#content) 
 
 * **TTNN**:  "Randomized algorithms for streaming low-rank approximation in tree tensor network format", in **Arxiv**, 2024, [Paper](https://arxiv.org/abs/2412.06111.pdf)
 
 
-## [Dynamic Tensor Analysis Under T-SVD Format](#content) 
+## 📚 [Dynamic Tensor Analysis Under T-SVD Format](#content) 
 
 * **TO-RPCA**: "An online tensor robust PCA algorithm for sequential 2D data", in **IEEE ICASSP**, 2016, [Paper](https://ieeexplore.ieee.org/document/7472114), [PDF](https://merl.com/publications/docs/TR2016-004.pdf)
   
@@ -317,13 +317,13 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 
 
-## [Dynamic/Adaptive Coupled Tensor Decomposition](#content) 
+## 📚 [Dynamic/Adaptive Coupled Tensor Decomposition](#content) 
 
 * **OnlineCP-Fusion**: "Online Data Fusion Using Incremental Tensor Learning", in **PAKDD**, 2019, [Paper](https://link.springer.com/book/10.1007/978-3-030-16148-4), [PDF](https://opus.lib.uts.edu.au/bitstream/10453/137870/1/PAKDD19.pdf)
 * **C-CPD-T**: "An Adaptive Algorithm for Tracking Third-Order Coupled Canonical Polyadic Decomposition", in **IEEE ICASSP**, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10447395)
 * **CP-AC**: "Consensus-based distributed streaming coupled tensor factorization", in **FUSION**, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10706299)
 
-## [Related Sources](#content) 
+## 📚 [Related Sources](#content) 
 ### [Good Surveys of (Batch) Tensor  Decomposition, Analysis, and Applications](#content) 
 
 * Evrim Acar et al. *"[Unsupervised multiway data analysis: A literature survey](https://ieeexplore.ieee.org/abstract/document/4538221)"*, in **IEEE TKDE**, 2008, [PDF](https://web.archive.org/web/20130328222403id_/http://www.cs.rpi.edu/research/pdf/07-06.pdf)
