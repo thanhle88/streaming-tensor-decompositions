@@ -301,6 +301,9 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **STRC & TRSSD**: "Patch tracking-based streaming tensor ring completion for visual data recovery", in **IEEE Trans. Circuits Syst. Video Techn.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9828504), [PDF](https://arxiv.org/pdf/2105.14620.pdf), [Code](https://github.com/he1c/PTSTRC)
 * **STR**:  "Tracking Tensor Ring Decompositions of Streaming Tensors", in **Computational and Applied Mathematics**, 2024, [Link](https://link.springer.com/article/10.1007/s40314-024-03019-4) [Paper](https://arxiv.org/pdf/2307.00719.pdf)
 
+## [Dynamic Tensor Analysis Under Tensor Tree Network Format](#content) 
+
+* **TTNN**:  "Randomized algorithms for streaming low-rank approximation in tree tensor network format", in **Arxiv**, 2024, [Paper](https://arxiv.org/abs/2412.06111.pdf)
 
 
 ## [Dynamic Tensor Analysis Under T-SVD Format](#content) 
