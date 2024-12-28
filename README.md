@@ -315,7 +315,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * "Effective streaming low-tubal-rank tensor approximation via frequent directions", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9796147), [PDF](https://arxiv.org/pdf/2108.10129.pdf)
 
-
+* "Online Nonconvex Robust Tensor Principal Conpmpent Analysis", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2025 [Paper](https://ieeexplore.ieee.org/abstract/document/10815606)
 
 ## 📚 [Dynamic/Adaptive Coupled Tensor Decomposition](#content) 
 
