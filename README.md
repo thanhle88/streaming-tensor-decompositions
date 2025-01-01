@@ -312,8 +312,8 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **TO-RPCA**: "An online tensor robust PCA algorithm for sequential 2D data", in **IEEE ICASSP**, 2016, [Paper](https://ieeexplore.ieee.org/document/7472114), [PDF](https://merl.com/publications/docs/TR2016-004.pdf)
   
-* **TOUCAN**: "Grassmannian optimization for online tensor completion and tracking with the T-SVD", in **IEEE Trans. Signal Process.**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9756209), [PDF](https://arxiv.org/abs/2001.11419), [Code](https://web.eecs.umich.edu/~girasole/?p=676)
-  * Conference version: "Online Tensor Completion and Free Submodule Tracking With The T-SVD", in **IEEE ICASSP**, 2020, [Paper](https://ieeexplore.ieee.org/abstract/document/9053199), [PDF](https://par.nsf.gov/servlets/purl/10205313), [Code](https://par.nsf.gov/servlets/purl/10205313)
+* **TOUCAN**: "Grassmannian optimization for online tensor completion and tracking with the T-SVD", in **IEEE Trans. Signal Process.**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9756209), [PDF](https://arxiv.org/abs/2001.11419), [Code](https://github.com/kgilman/TOUCAN)
+  * Conference version: "Online Tensor Completion and Free Submodule Tracking With The T-SVD", in **IEEE ICASSP**, 2020, [Paper](https://ieeexplore.ieee.org/abstract/document/9053199), [PDF](https://par.nsf.gov/servlets/purl/10205313), [Code](https://github.com/kgilman/TOUCAN)
 
 * "Effective streaming low-tubal-rank tensor approximation via frequent directions", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9796147), [PDF](https://arxiv.org/pdf/2108.10129.pdf)
 
