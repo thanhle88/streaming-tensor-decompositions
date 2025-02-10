@@ -316,6 +316,8 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
   * Conference version: "Online Tensor Completion and Free Submodule Tracking With The T-SVD", in **IEEE ICASSP**, 2020, [Paper](https://ieeexplore.ieee.org/abstract/document/9053199), [PDF](https://par.nsf.gov/servlets/purl/10205313), [Code](https://github.com/kgilman/TOUCAN)
 
 * "Effective streaming low-tubal-rank tensor approximation via frequent directions", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9796147), [PDF](https://arxiv.org/pdf/2108.10129.pdf)
+  
+* RSTCM: "Change Detection in Partially Observed Large-Scale Traffc Network Data", in **IEEE Trans. Intell. Transp. Syst.**, 2024 [Paper](https://ieeexplore.ieee.org/abstract/document/10642999), [PDF](https://par.nsf.gov/servlets/purl/10548927)
 
 * **OMRTD**: "Online Tensor Max-Norm Regularization via Stochastic Optimization", in **Trans. Mach. Learn. Res.**, 2024, [Paper](https://openreview.net/pdf?id=1iDpP3GWmS), [Code](https://github.com/twugithub/2024-TMLR-OMRTD)
 
