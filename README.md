@@ -323,7 +323,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **ONRTPCA**:  "Online Nonconvex Robust Tensor Principal Conpmpent Analysis", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2025 [Paper](https://ieeexplore.ieee.org/abstract/document/10815606)
 
-* **IncTSVD**: IncTSVD: Incremental Tensor Singular Value Decomposition of Multidimensional Streaming Data, in **IEEE Trans. Neural Netw. Learn. Syst.**, 2025 [Paper](https://ieeexplore.ieee.org/abstract/document/11048719)
+* **IncTSVD**: "IncTSVD: Incremental Tensor Singular Value Decomposition of Multidimensional Streaming Data", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2025 [Paper](https://ieeexplore.ieee.org/abstract/document/11048719)
 
 ## 📚 [Dynamic/Adaptive Coupled Tensor Decomposition](#content) 
 
