@@ -331,6 +331,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **C-CPD-T**: "An Adaptive Algorithm for Tracking Third-Order Coupled Canonical Polyadic Decomposition", in **IEEE ICASSP**, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10447395)
 * **CP-AC**: "Consensus-based distributed streaming coupled tensor factorization", in **FUSION**, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10706299)
 * **C-CPD**: "Multistatic MIMO Radar Tensor Tracking Based on Coupled Canonical Polyadic Decomposition" in **ICSP**, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10846762)
+*  **OKG-CTF**: "Offline and online coupled tensor factorization with knowledge graph", in **Plus One**, 2025, [PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336100), [Python](https://github.com/snudatalab/KG-CTF)
 
 ## 📚 [Related Sources](#content) 
 ### [Good Surveys of (Batch) Tensor  Decomposition, Analysis, and Applications](#content) 
