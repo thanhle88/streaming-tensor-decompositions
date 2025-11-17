@@ -333,6 +333,12 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **C-CPD**: "Multistatic MIMO Radar Tensor Tracking Based on Coupled Canonical Polyadic Decomposition" in **ICSP**, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10846762)
 *  **OKG-CTF**: "Offline and online coupled tensor factorization with knowledge graph", in **Plus One**, 2025, [PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336100), [Python](https://github.com/snudatalab/KG-CTF)
 
+
+## 📚 [Dynamic/Adaptive Functional Tensor Decomposition](#content) 
+
+* **OFTD**: "Online Functional Tensor Decomposition via Continual Learning for Streaming Data Completion", in **NeurIPS**, 2025, [Paper](https://openreview.net/forum?id=RPuTB28HsK)
+
+
 ## 📚 [Related Sources](#content) 
 ### [Good Surveys of (Batch) Tensor  Decomposition, Analysis, and Applications](#content) 
 
