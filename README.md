@@ -96,7 +96,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **Online CP**: "A Tensor Based Unified Framework for Streaming Signal Online Analysis", in **IEEE SPL**, 2024,  [Paper](https://ieeexplore.ieee.org/abstract/document/10555149)
   
-
+* **STATTRAK**: "A State Monitoring Assisted Tracking Algorithm for Adaptive Canonical Polyadic Decomposition", in **IEEE VTC**, 2025, [Paper](https://ieeexplore.ieee.org/document/11310235)
 
 
 #### [BCD + Stochastic Gradient Solvers](#content) 
