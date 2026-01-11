@@ -249,6 +249,8 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 * **eOTD**: "eOTD: An efficient online tucker decomposition for higher order tensors", in **IEEE ICDM**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8594989), [PDF](https://par.nsf.gov/servlets/purl/10098518)
 
 
+### [Hierarchical Tucker](#content)
+* **HT-RISE**: "Incremental Hierarchical Tucker Decomposition", in **Arxiv**, 2024,  [Paper](https://arxiv.org/pdf/2412.16544)
   
 ## 📚 [Dynamic Tensor Analysis Under Block-Term Decomposition Format](#content) 
 
@@ -259,8 +261,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **SBTD**: "A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors", in **IEEE SSP**, 2023, [Paper](https://ieeexplore.ieee.org/document/10208007), [PDF](https://thanhtbt.github.io/files/2023_SSP%20-%20A%20novel%20tensor%20tracking%20algorithm%20for%20block-term%20decomposition%20of%20streaming%20tensors.pdf)
 
- ### Hierarchical Tucker
- * **HT-RISE**: "Incremental Hierarchical Tucker Decomposition", in **Arxiv**, 2024,  [Paper](https://arxiv.org/pdf/2412.16544)
+ 
 
 ## 📚 [Dynamic Tensor Analysis Under Tensor-Train Format](#content) 
 
