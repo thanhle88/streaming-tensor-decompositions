@@ -297,7 +297,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **Online TT**: "A Tensor Based Unified Framework for Streaming Signal Online Analysis", in **IEEE SPL**, 2024,  [Paper](https://ieeexplore.ieee.org/abstract/document/10555149)
 
-* **BOATT**: "BOATT: UNIFIED BAYESIAN ONLINE TRACKING AND ADAPTATION FOR DYNAMIC TENSOR STREAMS", in **IEE ICASSP**, 2026. 
+* **BOATT**: "BOATT: UNIFIED BAYESIAN ONLINE TRACKING AND ADAPTATION FOR DYNAMIC TENSOR STREAMS", in **IEEE ICASSP**, 2026. 
 
 ## 📚 [Dynamic Tensor Analysis Under Tensor-Ring Format](#content) 
 
