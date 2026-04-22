@@ -195,6 +195,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **SMLN**: "A sequential multilinear Nystrom" om algorithm for streaming low-rank approximation of tensors in Tucker format",  in **Applied Mathematics Letters**, 2024 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S089396592400291X?via%3Dihub)
 
+* **DITD**: "Dynamic Incremental Tucker Decomposition for Sparse Tensors on Heterogeneous Platforms", in **IEEE Trans. Comput.**, 2026 [Paper](https://ieeexplore.ieee.org/abstract/document/11475612)
 
 #### [Online Multimodal Dictionary Learning](#content) 
 
