@@ -136,6 +136,8 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 *  **BS-CP**: Efficient streaming Bayesian tensor decomposition method via assumed density filtering, in **Plus One**, [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312723)
 
+* **BOATT**: BOATT: Unified Bayesian Online Tracking and Adaptation for Dynamic Tensor Streams, in **IEEE ICASSP**, 2026 [Paper](https://ieeexplore.ieee.org/document/11462276)
+
 ### [Multi-aspect Streaming CP Decomposition Methods](#content) 
 
 * **MASTA**: "Multi-aspect-streaming tensor analysis", in **Knowl.-Based Syst.**, 2015, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705115002671), [PDF](https://repositorio.inesctec.pt/server/api/core/bitstreams/ca4786ca-278c-417a-8bbc-7f00b511ecfd/content), [Code](https://github.com/fanaee/MASTA/blob/main/MASTA.zip)
