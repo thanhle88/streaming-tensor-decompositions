@@ -306,6 +306,8 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * **Online TT-ALS**: "Online TT-ALS for Streaming Tensor Decomposition with Incremental Orthogonalization", in ArXiv, 2026, [Paper](https://arxiv.org/abs/2606.31061), [Julia Code](https://github.com/hirokin0919/Online-TT-ALS)
 
+* **TT-ROTC**: "Robust Streaming Tensor Train Completion for Dynamic Space-based Spectrum Situation Map Construction", in **IEEE ICC**, 2026, [Paper](https://ieeexplore.ieee.org/abstract/document/11587379/)
+
 ## 📚 [Dynamic Tensor Analysis Under Tensor-Ring Format](#content) 
 
 * "Multi-Aspect Streaming Tensor Ring Completion for Dynamic Incremental Data", in **IEEE Signal Process. Lett.**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9996547)
